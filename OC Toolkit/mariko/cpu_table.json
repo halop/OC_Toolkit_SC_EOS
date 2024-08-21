@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Auto",
+        "label": "Auto",
+        "hex": "00"
+    },
+    {
+        "name": "Default Table",
+        "label": "Default Table",
+        "hex": "01"
+    },
+    {
+        "name": "1581 MHz Tbreak",
+        "label": "1581 MHz Tbreak",
+        "hex": "02"
+    }
+]
