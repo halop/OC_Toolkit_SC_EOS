@@ -5,9 +5,14 @@
         "hex": "02"
     },
     {
-        "name": "2379 MHz",
-        "label": "2379 MHz",
+        "name": "2397 MHz",
+        "label": "2397 MHz",
         "hex": "00"
+    },
+    {
+        "name": "2499 MHz",
+        "label": "2499 MHz",
+        "hex": "03"
     },
     {
         "name": "2601 MHz",
