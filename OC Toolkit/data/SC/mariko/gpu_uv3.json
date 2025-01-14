@@ -378,5 +378,115 @@
         "name": "850 mV",
         "hex": "5203",
         "label": "850 mV - unsafe"
+    },
+    {
+        "name": "855 mV",
+        "hex": "5703",
+        "label": "855 mV - dangerous"
+    },
+    {
+        "name": "860 mV",
+        "hex": "5C03",
+        "label": "860 mV - dangerous"
+    },
+    {
+        "name": "865 mV",
+        "hex": "6103",
+        "label": "865 mV - dangerous"
+    },
+    {
+        "name": "870 mV",
+        "hex": "6603",
+        "label": "870 mV - dangerous"
+    },
+    {
+        "name": "875 mV",
+        "hex": "6B03",
+        "label": "875 mV - dangerous"
+    },
+    {
+        "name": "880 mV",
+        "hex": "7003",
+        "label": "880 mV - dangerous"
+    },
+    {
+        "name": "885 mV",
+        "hex": "7503",
+        "label": "885 mV - dangerous"
+    },
+    {
+        "name": "890 mV",
+        "hex": "7A03",
+        "label": "890 mV - dangerous"
+    },
+    {
+        "name": "895 mV",
+        "hex": "7F03",
+        "label": "895 mV - dangerous"
+    },
+    {
+        "name": "900 mV",
+        "hex": "8403",
+        "label": "900 mV - dangerous"
+    },
+    {
+        "name": "905 mV",
+        "hex": "8903",
+        "label": "905 mV - dangerous"
+    },
+    {
+        "name": "910 mV",
+        "hex": "8E03",
+        "label": "910 mV - dangerous"
+    },
+    {
+        "name": "915 mV",
+        "hex": "9303",
+        "label": "915 mV - dangerous"
+    },
+    {
+        "name": "920 mV",
+        "hex": "9803",
+        "label": "920 mV - dangerous"
+    },
+    {
+        "name": "925 mV",
+        "hex": "9D03",
+        "label": "925 mV - dangerous"
+    },
+    {
+        "name": "930 mV",
+        "hex": "A203",
+        "label": "930 mV - dangerous"
+    },
+    {
+        "name": "935 mV",
+        "hex": "A703",
+        "label": "935 mV - dangerous"
+    },
+    {
+        "name": "940 mV",
+        "hex": "AC03",
+        "label": "940 mV - dangerous"
+    },
+    {
+        "name": "945 mV",
+        "hex": "B103",
+        "label": "945 mV - dangerous"
+    },
+    {
+        "name": "950 mV",
+        "hex": "B603",
+        "label": "950 mV - dangerous"
+    },
+    {
+        "name": "955 mV",
+        "hex": "BB03",
+        "label": "955 mV - dangerous"
+    },
+    {
+        "name": "960 mV",
+        "hex": "C003",
+        "label": "960 mV - dangerous"
     }
 ]
