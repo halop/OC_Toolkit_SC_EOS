@@ -258,5 +258,50 @@
         "name": "950 mV",
         "hex": "B603",
         "label": "950 mV"
+    },
+    {
+        "name": "955 mV",
+        "hex": "BB03",
+        "label": "955 mV - unsafe"
+    },
+    {
+        "name": "960 mV",
+        "hex": "C003",
+        "label": "960 mV - unsafe"
+    },
+    {
+        "name": "965 mV",
+        "hex": "C503",
+        "label": "965 mV - unsafe"
+    },
+    {
+        "name": "970 mV",
+        "hex": "CA03",
+        "label": "970 mV - unsafe"
+    },
+    {
+        "name": "975 mV",
+        "hex": "CF03",
+        "label": "975 mV - unsafe"
+    },
+    {
+        "name": "980 mV",
+        "hex": "D403",
+        "label": "980 mV - unsafe"
+    },
+    {
+        "name": "985 mV",
+        "hex": "D903",
+        "label": "985 mV - unsafe"
+    },
+    {
+        "name": "990 mV",
+        "hex": "DE03",
+        "label": "990 mV - unsafe"
+    },
+    {
+        "name": "995 mV",
+        "hex": "E303",
+        "label": "995 mV - unsafe"
     }
 ]
